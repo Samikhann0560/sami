@@ -1,0 +1,27 @@
+#a4{
+    
+    display: flex;
+    gap: 190px;
+    color: rgb(92, 77, 183);
+    }
+.a13{
+     width: 28%;
+     display: flex;
+     /* justify-content: center;
+     align-items: center; */
+}
+
+#b1{
+    display: flex;
+    gap: 190px;
+    color: rgb(92, 77, 183);
+}
+
+.b2{
+    display: flex;
+    gap: 90px;
+    /* background: #000; */
+}
+body{
+    /* background-color: rgb(41, 24, 220); */
+}
